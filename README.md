@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vishal Kumar</h1>
+<h1 align="center">Welocme, I'm Vishal Kumar</h1>
 <h3 align="center"> Machine Learning Engineer | Data Scientist | AI Enthusiast</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 🎓 Completed a **Master’s in Data Science, AI & Digital Business**
 - 👨‍💻 Interning as a **Data Scientist**, applying ML in real-world use cases
-- 💡 Passionate about **ML, Deep Learning, Computer Vision**, and **LLM applications**
+- 💡 Passionate about **Python, ML, Deep Learning, Computer Vision**, and **LLM applications**
 - 🧪 Experienced across **healthcare, automotive**, and **financial risk analytics**
 - 🌱 Exploring **Groq LLMs**, **LangChain agents**, and **embedded AI deployment**
 
@@ -24,16 +24,6 @@
 </p>
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalKumar-GitHub&show_icons=true&theme=tokyonight&hide=issues" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalKumar-GitHub&theme=tokyonight" />
-</p>
-
----
-
 ### Currently Learning
 
 - LLMs & RAG pipelines using LangChain & Groq
