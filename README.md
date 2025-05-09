@@ -9,11 +9,11 @@
 
 ### About Me
 
-- 🎓 Completed a **Master’s in Data Science, AI & Digital Business**
-- 👨‍💻 Interning as a **Data Scientist**, applying ML in real-world use cases
-- 💡 Passionate about **Python, ML, Deep Learning, Computer Vision**, and **LLM applications**
-- 🧪 Experienced across **healthcare, automotive**, and **financial risk analytics**
-- 🌱 Exploring **Groq LLMs**, **LangChain agents**, and **embedded AI deployment**
+- Completed a **Master’s in Data Science, AI & Digital Business**
+- Interning as a **Data Scientist**, applying ML in real-world use cases
+- Passionate about **Python, ML, Deep Learning, Computer Vision**, and **LLM applications**
+- Experienced across **healthcare, automotive**, and **financial risk analytics**
+- Exploring **Groq LLMs**, **LangChain agents**, and **embedded AI deployment**
 
 ---
 
