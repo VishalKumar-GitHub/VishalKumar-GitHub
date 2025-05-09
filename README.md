@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Vishal Kumar</h1>
-<h3 align="center">🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast</h3>
+<h1 align="center">Hi there, I'm Vishal Kumar</h1>
+<h3 align="center"> Machine Learning Engineer | Data Scientist | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coder GIF">
@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🎓 Completed a **Master’s in Data Science, AI & Digital Business**
 - 👨‍💻 Interning as a **Data Scientist**, applying ML in real-world use cases
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,git,linux,sql,jupyter,vscode" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishalKumar-GitHub&show_icons=true&theme=tokyonight&hide=issues" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 - LLMs & RAG pipelines using LangChain & Groq
 - Real-time ML deployment on edge devices
@@ -42,7 +42,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-kumar-819585275/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
@@ -53,7 +53,7 @@
 
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 
 > I believe in **Data for Impact** — turning numbers into narratives that drive real-world change.
 
