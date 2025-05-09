@@ -9,18 +9,18 @@
 
 ### 🧠 About Me
 
-- 🔬 I recently completed a **Master’s in Data Science, AI & Digital Business**
-- 👨‍💻 Currently interning as a **Data Scientist**
-- 🔍 Passionate about **ML, Deep Learning, Computer Vision**, and **AI for Social Good**
-- 🧪 I have hands-on experience in **healthcare**, **automotive**, and **financial risk analysis**
-- 🌐 Looking to collaborate on **open-source AI and data science projects**
+- 🎓 Completed a **Master’s in Data Science, AI & Digital Business**
+- 👨‍💻 Interning as a **Data Scientist**, applying ML in real-world use cases
+- 💡 Passionate about **ML, Deep Learning, Computer Vision**, and **LLM applications**
+- 🧪 Experienced across **healthcare, automotive**, and **financial risk analytics**
+- 🌱 Exploring **Groq LLMs**, **LangChain agents**, and **embedded AI deployment**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,sql,fastapi,flask,docker,git,linux,html,css,javascript,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,git,linux,sql,jupyter,vscode" />
 </p>
 
 ---
@@ -34,29 +34,30 @@
 
 ---
 
-### 🎯 Currently Learning
+### 📚 Currently Learning
 
-- LLMs & RAG with LangChain + Groq
-- Real-time deployment for ML in edge/automotive use cases
-- AI agents with ReAct, LangGraph & multimodal interfaces
+- LLMs & RAG pipelines using LangChain & Groq
+- Real-time ML deployment on edge devices
+- Multimodal AI agent design with ReAct and LangGraph
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-kumar-datascience/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:vishal.yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/vishal-kumar-819585275/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:vishalsinghrana170@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://github.com/VishalKumar-GitHub"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" /></a>
+  <a href="https://www.xing.com/profile/Vishal_Kumar055381/web_profiles"><img src="https://img.shields.io/badge/Xing-006567?logo=xing&style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
 
-> I believe in **Data for Impact** — turning numbers into narratives that drive meaningful change.
+> I believe in **Data for Impact** — turning numbers into narratives that drive real-world change.
 
 ---
 
-<!-- Optionally: You can also use GitHub trophies or visitor counter -->
+<!-- Optional: Add GitHub trophies -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=VishalKumar-GitHub&theme=dracula" /> -->
