@@ -9,7 +9,7 @@
 
 ### About Me
 
-- Completed a **Master’s in Data Science, AI & Digital Business**
+- Completed a **Master’s in Data Science, AI and Digital Business**
 - Interning as a **Data Scientist**, applying ML in real-world use cases
 - Passionate about **Python, ML, Deep Learning, Computer Vision**, and **LLM applications**
 - Experienced across **healthcare, automotive**, and **financial risk analytics**
@@ -26,7 +26,7 @@
 ---
 ### Currently Learning
 
-- LLMs & RAG pipelines using LangChain & Groq
+- LLMs and RAG pipelines using LangChain & Groq
 - Real-time ML deployment on edge devices
 - Multimodal AI agent design with ReAct and LangGraph
 
