@@ -12,7 +12,7 @@
 - Completed a **Master’s in Data Science, AI and Digital Business**
 - Interning as a **Data Scientist**, applying ML in real-world use cases
 - Passionate about **Python, ML, Deep Learning, Computer Vision**, and **LLM applications**
-- Some Projects in **healthcare, automotive, financial risk analytics** and etc.
+- Some Projects in **healthcare, automotive, financial risk analytics** and **more**.
 - Exploring **Groq LLMs**, **LangChain agents**, and **embedded AI deployment**
 
 ---
