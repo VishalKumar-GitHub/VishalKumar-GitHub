@@ -38,7 +38,7 @@
 
 ###  Fun Fact
 
-> I believe in **Data for Impact** — turning numbers into narratives that drive real-world change.
+> I believe in **Data for Impact** turning numbers into narratives that drive real-world change.
 
 ---
 
